@@ -1,2 +1,2 @@
 <?php
-echo "Hellow workld\n";
+echo "Hellow world\n";
